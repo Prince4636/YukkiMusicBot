@@ -1,7 +1,7 @@
 #
 # Copyright (C) 2021-2022 by TeamYukki@Github, < https://github.com/TeamYukki >.
 #
-# This file is part of < https://github.com/Prince4636/YukkiMusicBot > project,
+# This file is part of < https://github.com/YukkiMusic/YukkiMusicBot > project,
 # and is released under the "GNU v3.0 License Agreement".
 # Please see < https://github.com/Prince4636/YukkiMusicBot/blob/master/LICENSE >
 #
