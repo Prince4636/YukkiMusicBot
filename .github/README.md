@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/Prince4636/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Yukki Music Bot <img src="https://img.shields.io/github/v/release/YukkiMusic/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [Yukki Music Bot](https://github.com/Prince4636/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
